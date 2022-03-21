@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **codyle2005@gmail.com**
 
-- :exclamation: I would love to gain more experience in making product in general
+- :exclamation: Please reach out if you want to collab on **hackathons** and just to make a **cool product**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
