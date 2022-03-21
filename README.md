@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ba Loc (Cody) Le</h1>
-<h3 align="center">Aspiring highschool developer and physicist from Vietnam.,</h3>
+<h3 align="center">Aspiring highschool developer and physicist from Vietnam,</h3>
 
 - 🔭 I’m currently working on **Nbody simulation system**
 
