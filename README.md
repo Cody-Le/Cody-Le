@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **codyle2005@gmail.com**
 
-- :exclamation: Please reach out if you want to a a friend
+- :exclamation: Please reach out if you want to **make new friend** (pls I am lonely!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
