@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ba Loc (Cody) Le</h1>
-<h3 align="center">Aspiring developer and physicist from Vietnam, currently studying in the US,</h3>
+<h3 align="center">Young developer and aspiring physicist from Vietnam, currently studying in the US,</h3>
 
-- 🔭 I’m currently working on **Nbody simulation system**
-
-- 🌱 I’m currently learning **OpenGL and CUDA for scientific computing**
+- 🔭 I’m currently developing a **converter website**
 
 - 📫 How to reach me **codyle2005@gmail.com**
 
-- :exclamation: Please reach out if you want to collab on **hackathons** and just to make a **cool product**
+- :exclamation: Please reach out if you want to a a friend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
